@@ -1,0 +1,6 @@
+An HTML element is a component of an HTML document that tells a web browser how to structure and interpret a part of the HTML document. HTML elements can contain formatting instructions, semantic meaning, and content.
+
+For example, HTML elements are used to denote document parts such as headers, paragraphs, and footers and to embed content such such as hyperlinks, text, and images. Although HTML can be used to provide formatting instructions, HTML standards strongly encourage using CSS for this purpose instead.
+
+An HTML element is often — but not always — created by opening and closing HTML tags, which wrap around a piece of content. Below is an illustration that labels each of the parts of an HTML element:
+There are three kinds of HTML elements: normal elements, raw text elements, and void elements. Normal elements usually have both a start tag and an end tag, although for some elements the end tag, or both tags, can be omitted.
